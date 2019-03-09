@@ -1,0 +1,15 @@
+---
+title: VCCI Award Ceremony 2016
+subtitle: Outstanding Vietnamese business people 
+layout: default
+modal-id: 5
+date: 2016-10-11
+img: Slide22.PNG
+thumbnail: thumb_Slide22.PNG
+alt: image-alt
+project-date: October 2016
+client: VCCI
+category: Award Event
+description: VCCI Award Ceremony to outstanding Vietnamese business people 2016, Viet Nam - SoViet Friendship labour Cultural Palace, Ha Noi
+
+---

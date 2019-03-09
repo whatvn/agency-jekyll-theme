@@ -1,0 +1,14 @@
+---
+title: Cocacola Kickoff Meeting
+subtitle: Kickoff meeting
+layout: default
+modal-id: 6
+date: September, 2018
+img: Slide4.PNG
+thumbnail: thumb_Slide4.PNG
+alt: image-alt
+project-date: September, 2018
+client: Cocacola
+category: Party
+description: Coca-Cola Vietnam, The Adora (HCMC), September, 2018
+---

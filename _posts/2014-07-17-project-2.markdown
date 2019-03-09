@@ -1,15 +1,13 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Hanoi Investment & development cooperation 
+subtitle: Conference
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2017-06-25
+img: Slide18.PNG
+thumbnail: thumb_Slide18.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: June 2017
+client: Hanoi Committee
+category: Conference
 ---

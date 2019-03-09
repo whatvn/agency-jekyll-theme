@@ -1,0 +1,13 @@
+---
+title: THE OFFICIAL F1 Race
+subtitle: Ha Noi launching 
+layout: default
+modal-id: 15
+date: 2018-11-07
+img: Slide16.PNG
+thumbnail: thumb_Slide16.PNG
+alt: image-alt
+project-date: November 2018
+client: Hanoi Committee
+category: Thang Long Imperial Citadel (Hanoi)
+---

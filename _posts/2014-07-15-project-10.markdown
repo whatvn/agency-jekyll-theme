@@ -1,0 +1,13 @@
+---
+title: IDP Pacific Asia Conference 
+subtitle: Conference 
+layout: default
+modal-id: 11
+date: 2016-07-14
+img: Slide21.PNG
+thumbnail: thumb_Slide21.PNG
+alt: image-alt
+project-date: July 2016
+client: IDP
+category: Conference
+---

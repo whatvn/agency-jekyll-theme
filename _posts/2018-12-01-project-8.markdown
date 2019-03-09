@@ -1,0 +1,14 @@
+---
+title: VietjetAir lauching ceremony  
+subtitle: Lauching event
+layout: default
+modal-id: 8
+date: December, 2018
+img: Slide6.PNG
+thumbnail: thumb_Slide6.PNG
+alt: image-alt
+project-date: December, 2018
+client: VietjetAir
+category: Launching event
+description: Viet Nam - Osaka Destionation lauching ceremony  - Ha Noi 
+---

@@ -10,6 +10,9 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.header-logo {
+    height: 80px;
+}
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -257,7 +260,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(150, 147, 147, 0.616);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -293,12 +296,31 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
 }
+
+.header_logo {
+    width: 120px;
+    height: 60px;
+    position: relative;
+}
+.ct-btn-scroll {
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    /* padding-top: 500px; */
+    z-index: 9;
+    border-radius: 50%;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+  }
 
 @media(min-width:768px) {
     header .intro-text {
@@ -316,7 +338,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
